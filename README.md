@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj Gupta @surajgit79
 - 👀 I’m interested in CyberSecurity, Python Coding and Research oriented activities
-- 🌱 I’m currently learning Bachelor of Computer Application (BCA)
+- 🌱 I’m currently pursuing Bachelor of Computer Application (BCA)
 - 💞️ I’m looking to collaborate on python projects, research analysis
 - 📫 How to reach me ... gmail: surajg7922@gmail.com
 
