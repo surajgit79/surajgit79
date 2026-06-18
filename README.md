@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/125853594?v=4" width="120px" style="border-radius: 50%;" />
-
-# Suraj Gupta 👋
+# Suraj Gupta: 👋
 **`surajgit79`** — Backend Engineer · DevOps Tinkerer · BCA Student Shipping Real Things 🇳🇵
 
 *"Always open to connect and learn — but also to build, break, and figure it out."*
@@ -22,14 +20,13 @@ const suraj = {
   name: "Suraj Gupta",
   alias: "surajgit79",
   location: "Hetauda, Nepal 🏔️",
-  education: "BCA 6th Sem · HSMSS, Tribhuvan University",
+  education: "BCA · HSMSS, Tribhuvan University",
   currentFocus: [
     "Backend APIs & async messaging (RabbitMQ)",
     "DevOps — Docker, GitHub Actions, Nginx, Ansible",
     "Institutional web platforms (HSMSS website)",
   ],
-  research: "eSewa & Financial Inclusion in Nepal 📊",
-  achievements: ["🦈 Pull Shark", "⚡ YOLO"],
+  githubAchievements: ["🦈 Pull Shark", "⚡ YOLO"],
   funFact: "I'm a student who writes production-grade code and ships it. 😤",
   openTo: ["collaborations", "freelance projects", "learning together"],
 };
